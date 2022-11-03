@@ -7,5 +7,6 @@
 </head>
 <body>
         <h1><?php echo 'Hello, World!'; ?></h1>
+        <h1><?php echo 'Hello, I have intergrated the pipline!'; ?></h1>
 </body>
 </html>
